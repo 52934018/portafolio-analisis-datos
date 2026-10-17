@@ -32,8 +32,8 @@ Se desarrollaron medidas analíticas clave para evaluar el comportamiento del pe
 
 ### 3. Reportes y Dashboards Interactivos (Power BI)
 El desarrollo incluye un reporte ejecutivo estructurado en dos páginas principales:
-* **Página 1 (Resumen General):** Tarjetas de KPIs clave (Total de empleados, satisfacción, empleados activos, antigüedad y ausentismo), segmentadores interactivos por ubicación (estados), área, género y estado del empleado, junto con gráficos de distribución por departamento y diversidad étnica.
-* **Página 2 (Análisis de Desempeño y Compensación):** Evaluación del rendimiento promedio por departamento, análisis del salario promedio, distribución por fuentes de reclutamiento (*Indeed*, *LinkedIn*, etc.) y un gráfico de dispersión cruzando compensación vs. desempeño.
+* **(Dashboard 1 De Talento Humano - Resumen General):** Tarjetas de KPIs clave (Total de empleados, satisfacción, empleados activos, antigüedad y ausentismo), segmentadores interactivos por ubicación (estados), área, género y estado del empleado, junto con gráficos de distribución por departamento y diversidad étnica.
+* **(Dashboard 2 Análisis de Desempeño y Compensación):** Evaluación del rendimiento promedio por departamento, análisis del salario promedio, distribución por fuentes de reclutamiento (*Indeed*, *LinkedIn*, etc.) y un gráfico de dispersión cruzando compensación vs. desempeño.
 
 ---
 
