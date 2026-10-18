@@ -40,7 +40,7 @@ El desarrollo incluye un reporte ejecutivo estructurado en dos páginas principa
 ## 📈 Informe y Conclusiones Estratégicas
 
 * **Resumen Ejecutivo:** El análisis de la fuerza laboral revela áreas críticas de oportunidad en la retención del talento y la optimización de las fuentes de reclutamiento de alto rendimiento.
-* **Hallazgos Principales:** Se identificaron correlaciones directas entre el tipo de reclutamiento, el nivel de satisfacción interna y el desempeño general por departamentos.
+* **Hallazgos Principales:** Se identifican diferencias significativas en el desempeño general y el nivel de satisfacción interna según el tipo de fuente de reclutamiento utilizada en cada departamento.
 * **Recomendaciones para RRHH:** 
   1. Potenciar los canales de atracción que arrojan empleados con mayor permanencia y mejor desempeño.
   2. Implementar planes de acción en los departamentos con mayor tasa de ausentismo o menor satisfacción laboral.
